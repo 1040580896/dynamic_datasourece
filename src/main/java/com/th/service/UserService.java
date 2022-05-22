@@ -16,7 +16,7 @@ import java.util.List;
  **/
 
 @Service
-@DataSource("slave")
+// @DataSource("slave")
 public class UserService {
 
     @Autowired
